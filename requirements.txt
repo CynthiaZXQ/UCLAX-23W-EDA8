@@ -2,3 +2,7 @@ numpy
 matplotlib
 pandas
 ipywidgets
+geopandas
+contextily
+folium
+mapclassify
