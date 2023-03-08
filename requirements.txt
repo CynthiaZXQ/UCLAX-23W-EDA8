@@ -13,3 +13,4 @@ altair
 seaborn
 bokeh
 vega_datasets
+jupyter_server_proxy
