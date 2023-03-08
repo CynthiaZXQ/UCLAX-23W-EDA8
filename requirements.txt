@@ -6,3 +6,10 @@ geopandas
 contextily
 folium
 mapclassify
+plotly
+dash
+jupyter-dash
+altair
+seaborn
+bokeh
+vega_datasets
